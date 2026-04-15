@@ -1,0 +1,12 @@
+x = 10
+y = 4
+z = 3
+c = 2
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+print(x // y)
+print(x % y)
+print(x % z)
+print(c ** z) 
